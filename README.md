@@ -2,13 +2,6 @@
 Integrantes: Pedro, Enzo,  Correia, Felipe, Giuseppe e Davi. Área para a implementação da Documentação para  o TCC.
 
 
-
-> **Dica de Status:**
-> * ✅ **OK** (Concluído)
-> * 🟡 **EM ANDAMENTO** (Em execução)
-> * ❌ **SEM RESOLUÇÃO** (Pendente/Bloqueado)
-
-
 <details>
   <summary>DIARIO DE BORDO</summary>
 
