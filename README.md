@@ -9,8 +9,8 @@ Integrantes: Pedro, Enzo,  Correia, Felipe, Giuseppe e Davi. Área para a implem
 | NUMERO | ATRIBUIÇÃO | PESSOA | DATA.INICIAL | DATA.FINAL | VERIFICAÇÃO | GIT-PUSH | VG |
 | :---: | :--- | :--- | :---: | :---: | :--- | :---: | :---: |
 | **1** | Criação de uma tabela de planejamento. | Giuseppe | 26/03/2026 | 27/03/2026 | ✅ **OK** | 27/03/2026 | ✅ OK |
-| **2** | *Descrição da tarefa 2* | - | - | - | 🟡 **EM ANDAMENTO** | - | - |
-| **3** | *Descrição da tarefa 3* | - | - | - | ❌ **SEM RESOLUÇÃO** | - | - |
+| **2** | - | - | - | - | - | - | - |
+| **3** | - | - | - | - | - | - | - |
 | **4** | - | - | - | - | - | - | - |
 | **5** | - | - | - | - | - | - | - |
 | **6** | - | - | - | - | - | - | - |
