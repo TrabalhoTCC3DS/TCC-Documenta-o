@@ -3,15 +3,24 @@ Integrantes: Pedro, Enzo,  Correia, Felipe, Giuseppe e Davi. Área para a implem
 
 
 
-## DIARIO DE BORDO
+# TRABALHO DS
 
-<table>
-  <tr>
-    <th colspan="8" style="background-color: #c6e0b4;">TRABALHO DS</th>
-  </tr>
-  <tr>
-    <td bgcolor="#ffff00"><b>NUMERO</b></td>
-    <td bgcolor="#ffff00"><b>ATRIBUIÇÃO</b></td>
-    <!-- O GitHub remove o atributo bgcolor na maioria das vezes por segurança -->
-  </tr>
-</table>
+
+| NUMERO | ATRIBUIÇÃO | PESSOA | DATA.INICIAL | DATA.FINAL | VERIFICAÇÃO | GIT-PUSH | VG |
+| :---: | :--- | :--- | :---: | :---: | :--- | :---: | :---: |
+| **1** | Criação de uma tabela de planejamento. | Giuseppe | 26/03/2026 | 27/03/2026 | ✅ **OK** | 27/03/2026 | ✅ OK |
+| **2** | *Descrição da tarefa 2* | - | - | - | 🟡 **EM ANDAMENTO** | - | - |
+| **3** | *Descrição da tarefa 3* | - | - | - | ❌ **SEM RESOLUÇÃO** | - | - |
+| **4** | - | - | - | - | - | - | - |
+| **5** | - | - | - | - | - | - | - |
+| **6** | - | - | - | - | - | - | - |
+| **7** | - | - | - | - | - | - | - |
+| **8** | - | - | - | - | - | - | - |
+| **9** | - | - | - | - | - | - | - |
+| **10** | - | - | - | - | - | - | - |
+
+---
+> **Dica de Status:**
+> * ✅ **OK** (Concluído)
+> * 🟡 **EM ANDAMENTO** (Em execução)
+> * ❌ **SEM RESOLUÇÃO** (Pendente/Bloqueado)
