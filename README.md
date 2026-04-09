@@ -3,36 +3,24 @@ Integrantes: Pedro, Enzo,  Correia, Felipe, Giuseppe e Davi. Área para a implem
 
 
 <details>
-  <summary>DIARIO DE BORDO</summary>
+  <summary>LEIS</summary>
 
-  # TRABALHO DS
+  # LEIS GERAIS
 
 
-| NUMERO | ATRIBUIÇÃO | PESSOA | DATA.INICIAL | DATA.FINAL | VERIFICAÇÃO | GIT-PUSH | VG |
-| :---: | :--- | :--- | :---: | :---: | :--- | :---: | :---: |
-| **1** | Criação de uma tabela de planejamento. | Giuseppe | 26/03/2026 | 27/03/2026 | ✅ **OK** | 27/03/2026 | ✅ OK |
-| **2** | - | - | - | - | - | - | - |
-| **3** | - | - | - | - | - | - | - |
-| **4** | - | - | - | - | - | - | - |
-| **5** | - | - | - | - | - | - | - |
-| **6** | - | - | - | - | - | - | - |
-| **7** | - | - | - | - | - | - | - |
-| **8** | - | - | - | - | - | - | - |
-| **9** | - | - | - | - | - | - | - |
-| **10** | - | - | - | - | - | - | - |
-
--------------------------------------------
-> **Dica de Status:**
-> * ✅ **OK** (Concluído)
-> * 🟡 **EM ANDAMENTO** (Em execução)
-> * ❌ **SEM RESOLUÇÃO** (Pendente/Bloqueado)
+| NUMERO | ATRIBUIÇÃO | DATA | RESUMO |
+| :---: | :--- | :--- | :---: |
+| **1** | Lei nº 14.016 | 23 de junho de 2020 | permitindo que restaurantes, bares, lanchonetes e outros estabelecimentos doem o excedente não comercializado |
+| **2** | - | - | - |
+| **3** | - | - | - |
+| **4** | - | - | - |
+| **5** | - | - | - |
+| **6** | - | - | - |
+| **7** | - | - | - |
+| **8** | - | - | - |
+| **9** | - | - | - |
 
 -------------------------------------------
 
 
-</details>
-
-<details>
-  <summary>Clique aqui para ver a Aba 2</summary>
-  Conteúdo da segunda seção.
 </details>
