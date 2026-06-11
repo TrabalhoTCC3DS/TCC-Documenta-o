@@ -30,8 +30,8 @@ Integrantes: Pedro, Enzo,  Correia, Felipe, Giuseppe e Davi. Área para a implem
 
   # Documentação
 
-Arquivo(nome) (atualização) data 
-breve resumo.
+Arquivo(Documentacao TCC) (1.0) 18/06/2026 
+Primeiro prototipo de TCC, ideias principais.
 
 
 -------------------------------------------
