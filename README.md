@@ -24,3 +24,17 @@ Integrantes: Pedro, Enzo,  Correia, Felipe, Giuseppe e Davi. Área para a implem
 
 
 </details>
+
+<details>
+  <summary>LEIS</summary>
+
+  # Documentação
+
+Arquivo(nome) (atualização) data 
+breve resumo.
+
+
+-------------------------------------------
+
+
+</details>
