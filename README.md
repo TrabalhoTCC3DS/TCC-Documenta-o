@@ -32,11 +32,11 @@ Integrantes: Pedro, Enzo,  Correia, Felipe, Giuseppe e Davi. Área para a implem
 
   # Documentacao TCC 1.0
 -------------------------------------------
-Arquivo(Documentacao TCC) (1.0) 18/06/2026 
+Arquivo(Documentacao TCC) (1.0) 08/06/2026 
 Primeiro prototipo de TCC, ideias principais.
 -------------------------------------------
-
-
+Documentacao(documento TCC) (1.1) 11/06/2026
+Adicionadas as imageens do protótipo.
 -------------------------------------------
 
 
